@@ -2,7 +2,7 @@
 
 Welcome! If you are building a website, publishing articles, or trying to grow a YouTube channel, SEO can sometimes feel like a puzzle. I built this ChatGPT skill to help creators, freelancers, and small businesses tackle SEO practically—without needing expensive subscriptions, API keys, or complicated tech setups. Just bring your content and your audience, and let's get to work!
 
-## 🚀 What It Helps You Do
+What It Helps You Do
 
 *   **Brainstorm Keywords:** Discover what your audience is actually searching for and organize those ideas by intent.
 *   **Audit Your Pages:** Paste in a web page, and get a prioritized, honest list of useful SEO improvements.
